@@ -7986,7 +7986,7 @@
       "notes":""
    },
   {
-      "name":"allmanga",
+      "name":"AllManga",
       "id":737631167,
       "baseUrl":"https://allmanga.to/",
       "lang":"en",
@@ -7996,8 +7996,8 @@
       "dateFormatLocale":"",
       "isNsfw":true,
       "hasCloudflare":false,
-      "sourceCodeUrl":"https://raw.githubusercontent.com/entityJY/mangayomi-extensions-eJ/main/javascript/manga/src/ru/mangalib.js",
-      "apiUrl":"https://api.mangalib.me/api",
+      "sourceCodeUrl":"https://raw.githubusercontent.com/7Aravya7/build-HM/refs/heads/main/gemini-code-1780651763535.js",
+      "apiUrl":"https://api.allmanga.to/api",
       "version":"0.0.1",
       "isManga":true,
       "itemType":0,
